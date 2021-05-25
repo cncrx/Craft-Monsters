@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panel_brown",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 100
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 100,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "texture": "c86b9840-0b36-4276-a0d7-982055c94610@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "assets/Scripts/GameData.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/GameData.js",
+    "mTimestamp": 1614612119360
+  },
+  "assets/Scripts/Constants.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Constants.js",
+    "mTimestamp": 1614612119300
+  },
+  "assets/Scripts/ScoreManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/ScoreManager.js",
+    "mTimestamp": 1616432861936
+  },
+  "assets/Scripts/Score.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./GameManager": "assets/Scripts/GameManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Score.js",
+    "mTimestamp": 1621917103468
+  },
+  "assets/Scripts/Utils.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils.js",
+    "mTimestamp": 1621917103699
+  },
+  "assets/Scripts/MapNodes.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/MapNodes.js",
+    "mTimestamp": 1621173078425
+  },
+  "assets/Scripts/Earth.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Earth.js",
+    "mTimestamp": 1621173256504
+  },
+  "assets/Scripts/Tiled.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Tiled.js",
+    "mTimestamp": 1621223661639
+  },
+  "assets/Scripts/Tile.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Tile.js",
+    "mTimestamp": 1621223705334
+  },
+  "assets/Scripts/BasedMap.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/BasedMap.js",
+    "mTimestamp": 1621223829650
+  },
+  "assets/Scripts/Monsters.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./GameManager": "assets/Scripts/GameManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Monsters.js",
+    "mTimestamp": 1621917103421
+  },
+  "assets/Scripts/MonsterManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./GameManager": "assets/Scripts/GameManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/MonsterManager.js",
+    "mTimestamp": 1621917103250
+  },
+  "assets/Scripts/UIManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./GameManager": "assets/Scripts/GameManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UIManager.js",
+    "mTimestamp": 1621917103662
+  },
+  "assets/Scripts/TiledMap.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./GameManager": "assets/Scripts/GameManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/TiledMap.js",
+    "mTimestamp": 1621917103519
+  },
+  "assets/Scripts/GameManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./MapManager": "assets/Scripts/MapManager.js",
+      "./MonsterManager": "assets/Scripts/MonsterManager.js",
+      "./UIManager": "assets/Scripts/UIManager.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/GameManager.js",
+    "mTimestamp": 1621917719783
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1621919346791,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1621919346836
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts": "assets/Scripts/GameManager.js",
+      "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MonsterManager.ts": "assets/Scripts/MonsterManager.js",
+      "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Monsters.ts": "assets/Scripts/Monsters.js",
+      "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Score.ts": "assets/Scripts/Score.js",
+      "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/TiledMap.ts": "assets/Scripts/TiledMap.js",
+      "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/UIManager.ts": "assets/Scripts/UIManager.js",
+      "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MapManager.ts": "assets/Scripts/MapManager.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1621923883354,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "assets/Scripts/MapManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/MapManager.js",
+    "mTimestamp": 1621923883442
+  }
+}

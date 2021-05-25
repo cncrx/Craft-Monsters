@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "test",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<map version=\"1.4\" tiledversion=\"1.4.3\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"15\" height=\"26\" tilewidth=\"48\" tileheight=\"48\" infinite=\"0\" nextlayerid=\"2\" nextobjectid=\"1\">\r\n <tileset firstgid=\"1\" name=\"monster_1\" tilewidth=\"48\" tileheight=\"48\" tilecount=\"100\" columns=\"10\">\r\n  <image source=\"monster_1.png\" width=\"480\" height=\"480\"/>\r\n </tileset>\r\n <layer id=\"1\" name=\"bg1\" width=\"15\" height=\"26\">\r\n  <data encoding=\"csv\">\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,34,35,36,37,0,0,0,0,0,\r\n0,0,0,0,0,0,44,45,46,47,0,0,0,0,0,\r\n0,0,0,0,0,0,54,55,56,57,0,34,35,36,37,\r\n34,35,36,37,0,0,64,65,66,67,0,44,45,46,47,\r\n44,45,46,47,0,0,0,0,0,0,0,54,55,56,57,\r\n54,55,56,57,0,0,0,0,0,0,0,64,65,66,67,\r\n64,65,66,67,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,34,35,36,37,0,\r\n0,0,0,0,0,34,35,36,37,0,44,45,46,47,0,\r\n0,0,0,0,0,44,45,46,47,0,54,55,56,57,0,\r\n0,0,0,0,0,54,55,56,57,0,64,65,66,67,0,\r\n0,0,0,0,0,64,65,66,34,35,36,37,0,0,0,\r\n0,0,0,0,0,0,0,0,44,45,46,47,0,0,0,\r\n0,0,0,0,0,0,0,0,54,55,56,57,0,0,0,\r\n0,0,0,0,0,0,0,0,64,65,66,67,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,\r\n0,0,0,0,0,0,0,0,0,0,0,0,0,0,0\r\n</data>\r\n </layer>\r\n</map>\r\n",
+  "tsxFiles": [],
+  "tsxFileNames": [],
+  "spriteFrames": [
+    {
+      "__uuid__": "2568d4b7-eadc-4d2d-ae63-e332a5f36d45@f9941"
+    }
+  ],
+  "imageLayerSpriteFrame": [],
+  "imageLayerSpriteFrameNames": [],
+  "spriteFrameNames": [
+    "monster_1.png"
+  ],
+  "spriteFrameSizes": [
+    {
+      "__type__": "cc.Size",
+      "width": 480,
+      "height": 480
+    }
+  ]
+}

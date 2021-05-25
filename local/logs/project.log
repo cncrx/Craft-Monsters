@@ -1,0 +1,35 @@
+2021-05-25 13:08:33-log: [Package] menu@1.0.0 enable
+2021-05-25 13:08:34-log: [Package] profile@1.0.0 enable
+2021-05-25 13:08:34-log: [Package] program@1.0.0 enable
+2021-05-25 13:08:34-log: [Package] messages@1.0.0 enable
+2021-05-25 13:08:34-log: [Package] device@1.0.1 enable
+2021-05-25 13:08:34-log: [Package] ui-kit@1.0.0 enable
+2021-05-25 13:08:34-log: [Package] tester@1.0.0 enable
+2021-05-25 13:08:34-log: [Package] preferences@1.0.0 enable
+2021-05-25 13:08:35-log: Setup mods mgr.: 492.933ms
+2021-05-25 13:08:35-log: [Package] engine@1.0.5 enable
+2021-05-25 13:08:45-log: [Package] programming@1.0.0 enable
+2021-05-25 13:08:45-log: [Package] asset-db@1.0.0 enable
+2021-05-25 13:08:45-log: [Package] console@1.0.0 enable
+2021-05-25 13:08:45-log: [Package] scene@1.0.0 enable
+2021-05-25 13:08:45-log: [Package] about@1.0.0 enable
+2021-05-25 13:08:46-log: [Package] utils@1.0.0 enable
+2021-05-25 13:08:46-log: [Package] assets@1.0.0 enable
+2021-05-25 13:08:46-log: [Package] server@1.0.0 enable
+2021-05-25 13:08:45-log: [Package] project@1.0.1 enable
+2021-05-25 14:23:27-error: [Scene] 未发现打包后的资源：assets/Scripts/MapManager.js
+2021-05-25 14:23:27-warn: [Scene] Missing class: 79e1aYX7XhLLbC1ssowxHG9
+2021-05-25 14:23:27-warn: [Scene] Missing class: 0527e0XM+lBiKLzIaxLlv+E
+2021-05-25 14:23:27-warn: [Scene] Missing class: d3238dR465KhrVoJXrJfXx/
+2021-05-25 14:23:27-warn: [Scene] Missing class: 3508bVC+X9E2qgc52krW91J
+2021-05-25 14:23:27-warn: [Scene] Missing class: 26b23Fh43NEPpe/LMj+gym3
+2021-05-25 14:23:27-error: [Scene] Script "26b23Fh43NEPpe/LMj+gym3" attached to "BasedMap" in prefab "BasedMap" is missing or invalid. Detailed information:
+Asset url: "db://assets/resources/prefabs/BasedMap"
+Script UUID: "26b23161-e373-443e-97bf-2cc8fe8329b7"
+Class ID: "26b23Fh43NEPpe/LMj+gym3"
+
+2021-05-25 14:23:27-error: [Scene] Script "26b23Fh43NEPpe/LMj+gym3" attached to "BasedMap" in prefab "BasedMap" is missing or invalid. Detailed information:
+Asset url: "db://assets/resources/prefabs/BasedMap"
+Script UUID: "26b23161-e373-443e-97bf-2cc8fe8329b7"
+Class ID: "26b23Fh43NEPpe/LMj+gym3"
+

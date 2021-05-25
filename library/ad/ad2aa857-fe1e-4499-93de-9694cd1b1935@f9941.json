@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrowBrown_right",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 22,
+      "height": 21
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 22,
+      "height": 21
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ad2aa857-fe1e-4499-93de-9694cd1b1935@6c48a",
+    "packable": true
+  }
+}

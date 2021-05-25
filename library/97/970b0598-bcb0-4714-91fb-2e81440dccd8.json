@@ -1,0 +1,118 @@
+{
+  "__type__": "cc.EffectAsset",
+  "_name": "util/splash-screen",
+  "_objFlags": 0,
+  "_native": "",
+  "techniques": [
+    {
+      "passes": [
+        {
+          "blendState": {
+            "targets": [
+              {
+                "blend": true,
+                "blendSrc": 2,
+                "blendDst": 4,
+                "blendDstAlpha": 4
+              }
+            ]
+          },
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "program": "util/splash-screen|splash-screen-vs:vert|splash-screen-fs:frag",
+          "depthStencilState": {
+            "depthTest": false,
+            "depthWrite": false
+          }
+        }
+      ]
+    }
+  ],
+  "shaders": [
+    {
+      "hash": 2106901053,
+      "glsl4": {
+        "vert": "\nprecision mediump float;\nlayout(location = 0) in vec2 a_position;\nlayout(location = 1) in vec2 a_texCoord;\nlayout(location = 0) out vec2 v_uv;\nvec4 vert () {\n  vec4 pos = vec4(a_position, 0, 1);\n  v_uv = a_texCoord;\n  return pos;\n}\nvoid main() { gl_Position = vert(); }",
+        "frag": "\nprecision mediump float;\nlayout(location = 0) in vec2 v_uv;\nlayout(set = 1, binding = 1) uniform sampler2D mainTexture;\nlayout(set = 1, binding = 0) uniform splashFrag {\n  float u_precent;\n};\nvec4 frag () {\n  vec4 color = texture(mainTexture, v_uv);\n  float precent = clamp(u_precent, 0.0, 1.0);\n  color.xyz *= precent;\n  return color;\n}\nlayout(location = 0) out vec4 cc_FragColor;\nvoid main() { cc_FragColor = frag(); }"
+      },
+      "glsl3": {
+        "vert": "\nprecision mediump float;\nin vec2 a_position;\nin vec2 a_texCoord;\nout vec2 v_uv;\nvec4 vert () {\n  vec4 pos = vec4(a_position, 0, 1);\n  v_uv = a_texCoord;\n  return pos;\n}\nvoid main() { gl_Position = vert(); }",
+        "frag": "\nprecision mediump float;\nin vec2 v_uv;\nuniform sampler2D mainTexture;\nlayout(std140) uniform splashFrag {\n  float u_precent;\n};\nvec4 frag () {\n  vec4 color = texture(mainTexture, v_uv);\n  float precent = clamp(u_precent, 0.0, 1.0);\n  color.xyz *= precent;\n  return color;\n}\nlayout(location = 0) out vec4 cc_FragColor;\nvoid main() { cc_FragColor = frag(); }"
+      },
+      "glsl1": {
+        "vert": "\nprecision mediump float;\nattribute vec2 a_position;\nattribute vec2 a_texCoord;\nvarying vec2 v_uv;\nvec4 vert () {\n  vec4 pos = vec4(a_position, 0, 1);\n  v_uv = a_texCoord;\n  return pos;\n}\nvoid main() { gl_Position = vert(); }",
+        "frag": "\nprecision mediump float;\nvarying vec2 v_uv;\nuniform sampler2D mainTexture;\nuniform float u_precent;\nvec4 frag () {\n  vec4 color = texture2D(mainTexture, v_uv);\n  float precent = clamp(u_precent, 0.0, 1.0);\n  color.xyz *= precent;\n  return color;\n}\nvoid main() { gl_FragColor = frag(); }"
+      },
+      "builtins": {
+        "globals": {
+          "blocks": [],
+          "samplers": []
+        },
+        "locals": {
+          "blocks": [],
+          "samplers": []
+        }
+      },
+      "defines": [],
+      "blocks": [
+        {
+          "name": "splashFrag",
+          "members": [
+            {
+              "name": "u_precent",
+              "type": 13,
+              "count": 1
+            }
+          ],
+          "defines": [],
+          "stageFlags": 16,
+          "binding": 0
+        }
+      ],
+      "samplers": [
+        {
+          "name": "mainTexture",
+          "type": 28,
+          "count": 1,
+          "defines": [],
+          "stageFlags": 16,
+          "binding": 1
+        }
+      ],
+      "attributes": [
+        {
+          "name": "a_position",
+          "type": 14,
+          "count": 1,
+          "defines": [],
+          "stageFlags": 1,
+          "format": 21,
+          "location": 0
+        },
+        {
+          "name": "a_texCoord",
+          "type": 14,
+          "count": 1,
+          "defines": [],
+          "stageFlags": 1,
+          "format": 21,
+          "location": 1
+        }
+      ],
+      "varyings": [
+        {
+          "name": "v_uv",
+          "type": 14,
+          "count": 1,
+          "defines": [],
+          "stageFlags": 1,
+          "location": 0
+        }
+      ],
+      "name": "util/splash-screen|splash-screen-vs:vert|splash-screen-fs:frag"
+    }
+  ],
+  "combinations": [],
+  "hideInEditor": false
+}

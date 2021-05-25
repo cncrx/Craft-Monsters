@@ -1,0 +1,1008 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 23117.525798999995,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-cannon",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 52
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-box2d",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "loc": {
+          "start": {
+            "line": 22,
+            "column": 14
+          },
+          "end": {
+            "line": 22,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-cannon",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 4580933.3878,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 7
+          },
+          "end": {
+            "line": 4,
+            "column": 79
+          }
+        }
+      },
+      {
+        "value": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MapManager.ts",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 7
+          },
+          "end": {
+            "line": 5,
+            "column": 78
+          }
+        }
+      },
+      {
+        "value": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MonsterManager.ts",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 7
+          },
+          "end": {
+            "line": 6,
+            "column": 82
+          }
+        }
+      },
+      {
+        "value": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Monsters.ts",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 7
+          },
+          "end": {
+            "line": 7,
+            "column": 76
+          }
+        }
+      },
+      {
+        "value": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Score.ts",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 7
+          },
+          "end": {
+            "line": 8,
+            "column": 73
+          }
+        }
+      },
+      {
+        "value": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/TiledMap.ts",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 7
+          },
+          "end": {
+            "line": 9,
+            "column": 76
+          }
+        }
+      },
+      {
+        "value": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/UIManager.ts",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 7
+          },
+          "end": {
+            "line": 10,
+            "column": 77
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MapManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MonsterManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Monsters.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Score.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/TiledMap.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/UIManager.ts"
+      }
+    ]
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts": {
+    "mTimestamp": 1621917700334.7603,
+    "chunkId": "assets/Scripts/GameManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 76
+          },
+          "end": {
+            "line": 2,
+            "column": 80
+          }
+        }
+      },
+      {
+        "value": "./MapManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 27
+          },
+          "end": {
+            "line": 3,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./MonsterManager",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 31
+          },
+          "end": {
+            "line": 4,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "./UIManager",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MapManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MonsterManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/UIManager.ts"
+      }
+    ]
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MonsterManager.ts": {
+    "mTimestamp": 1621259094099.5852,
+    "chunkId": "assets/Scripts/MonsterManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 166
+          },
+          "end": {
+            "line": 2,
+            "column": 170
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1621919303261,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/MapManager.ts": {
+    "mTimestamp": 1621923882264.5469,
+    "chunkId": "assets/Scripts/MapManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 121
+          },
+          "end": {
+            "line": 2,
+            "column": 125
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts"
+      }
+    ]
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Monsters.ts": {
+    "mTimestamp": 1621258230479.2622,
+    "chunkId": "assets/Scripts/Monsters.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 118
+          },
+          "end": {
+            "line": 2,
+            "column": 122
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts"
+      }
+    ]
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Score.ts": {
+    "mTimestamp": 1621090424724.3662,
+    "chunkId": "assets/Scripts/Score.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 78
+          },
+          "end": {
+            "line": 2,
+            "column": 82
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts"
+      }
+    ]
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/TiledMap.ts": {
+    "mTimestamp": 1621259733552.7515,
+    "chunkId": "assets/Scripts/TiledMap.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 65
+          },
+          "end": {
+            "line": 2,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts"
+      }
+    ]
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/UIManager.ts": {
+    "mTimestamp": 1621258539501.132,
+    "chunkId": "assets/Scripts/UIManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 121
+          },
+          "end": {
+            "line": 2,
+            "column": 125
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/GameManager.ts"
+      }
+    ]
+  },
+  "file:///D:/Craft-Monsters/Craft-Monsters/assets/Scripts/Utils.ts": {
+    "mTimestamp": 1621170971863.3708,
+    "chunkId": "assets/Scripts/Utils.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 99
+          },
+          "end": {
+            "line": 2,
+            "column": 103
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  }
+}

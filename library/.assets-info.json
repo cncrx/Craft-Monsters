@@ -1,0 +1,748 @@
+{
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes.meta": {
+    "time": 1613834784648.088
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes": {
+    "time": 1617797577908.8862,
+    "uuid": "9c3fee32-0a16-4785-91ae-d781f363031d",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\main.scene.meta": {
+    "time": 1613834797759.6763
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model.meta": {
+    "time": 1613840577088.5667
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters.meta": {
+    "time": 1613840619278.739
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\ultimate_monster.png.meta": {
+    "time": 1613841462159.917
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\Main.scene.meta": {
+    "time": 1613834797759.6763
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\Main.scene": {
+    "time": 1621923894523.812,
+    "uuid": "a69e6096-da66-48cb-bdc4-9b9fed65f064",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_1.png.meta": {
+    "time": 1613903433962.4922
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_2.png.meta": {
+    "time": 1613903434015.4424
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_7_left.png.meta": {
+    "time": 1613903434312.1594
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_7_right.png.meta": {
+    "time": 1613903434357.1172
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_3.png.meta": {
+    "time": 1613903434074.386
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_5.png.meta": {
+    "time": 1613903434188.2788
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_4.png.meta": {
+    "time": 1613903434117.3455
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_6.png.meta": {
+    "time": 1613903434227.2405
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\model\\monsters\\monster_7.png.meta": {
+    "time": 1613903434268.2017
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources.meta": {
+    "time": 1613840577088.5667
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters.meta": {
+    "time": 1613840619278.739
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_1.png.meta": {
+    "time": 1613903433962.4922
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_2.png.meta": {
+    "time": 1613903434015.4424
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_3.png.meta": {
+    "time": 1613903434074.386
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_4.png.meta": {
+    "time": 1613903434117.3455
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_5.png.meta": {
+    "time": 1613903434188.2788
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_6.png.meta": {
+    "time": 1613903434227.2405
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_7.png.meta": {
+    "time": 1613903434268.2017
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_7_left.png.meta": {
+    "time": 1613903434312.1594
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\monsters\\monster_7_right.png.meta": {
+    "time": 1613903434357.1172
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map.meta": {
+    "time": 1613915824673.03
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\map.tmx.meta": {
+    "time": 1613918384477.0913
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\Nature_environment_01.tsx.meta": {
+    "time": 1613915892605.8442
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\ground.tmx.meta": {
+    "time": 1613916110490.332
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\Nature_environment_tiles.png.meta": {
+    "time": 1613919942326.9087
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\Nature_environment_tiles.tsx.meta": {
+    "time": 1613918650343.8428
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map.tmx.meta": {
+    "time": 1613918054062.466
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\Map.tmx.meta": {
+    "time": 1613918651769.532
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\test.tmx.meta": {
+    "time": 1613920437508.2876
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\monster_1.png.meta": {
+    "time": 1613920437485.3093
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\sources\\map\\testt.tmx.meta": {
+    "time": 1613920564165.1885
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\map.meta": {
+    "time": 1613915824673.03
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\map\\Map.tmx.meta": {
+    "time": 1613921736654.4758
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\map\\Nature_environment_tiles.png.meta": {
+    "time": 1613919942326.9087
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\map\\Nature_environment_tiles.tsx.meta": {
+    "time": 1613918650343.8428
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters.meta": {
+    "time": 1613840619278.739
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_1.png.meta": {
+    "time": 1613903433962.4922
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_2.png.meta": {
+    "time": 1613903434015.4424
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_3.png.meta": {
+    "time": 1613903434074.386
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_4.png.meta": {
+    "time": 1613903434117.3455
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_5.png.meta": {
+    "time": 1613903434188.2788
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_6.png.meta": {
+    "time": 1613903434227.2405
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_7.png.meta": {
+    "time": 1613903434268.2017
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_7_left.png.meta": {
+    "time": 1613903434312.1594
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scenes\\monsters\\monster_7_right.png.meta": {
+    "time": 1613903434357.1172
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources.meta": {
+    "time": 1613921753923.0618
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources": {
+    "time": 1617797561360.2397,
+    "uuid": "d0081aa9-6303-46ca-bb8c-7ba4a71e15fe",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters.meta": {
+    "time": 1613840619278.739
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_1.png.meta": {
+    "time": 1613903433962.4922
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_2.png.meta": {
+    "time": 1613903434015.4424
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_3.png.meta": {
+    "time": 1614426782614.0564
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_4.png.meta": {
+    "time": 1614426794365.5774
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_5.png.meta": {
+    "time": 1614348882397.816
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_6.png.meta": {
+    "time": 1613903434227.2405
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_7.png.meta": {
+    "time": 1613903434268.2017
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_7_left.png.meta": {
+    "time": 1613903434312.1594
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_7_right.png.meta": {
+    "time": 1613903434357.1172
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters": {
+    "time": 1617797566184.2144,
+    "uuid": "6c3dd429-0fac-4771-823b-b8b14a98a0a9",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_1.png": {
+    "time": 1529428652000,
+    "uuid": "8d31ff9b-6ec2-46dd-89c9-8ffe5fbe326d",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_2.png": {
+    "time": 1529428982000,
+    "uuid": "b979ca47-77e6-446a-bfb3-4ecb800502af",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map.meta": {
+    "time": 1613915824673.03
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Map.tmx.meta": {
+    "time": 1613921757542.0823
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.png.meta": {
+    "time": 1613919942326.9087
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.tsx.meta": {
+    "time": 1613918650343.8428
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map": {
+    "time": 1621168168865.9287,
+    "uuid": "69ef86c7-944a-4888-9bf7-26708d3c1461",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Map.tmx": {
+    "time": 1613918622004.0688,
+    "uuid": "dd38ec24-deda-428b-91f0-01dcc15512a0",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.tsx": {
+    "time": 1613918467661.2065,
+    "uuid": "f71deade-8280-4102-9e16-eed962f3b2ed",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.png": {
+    "time": 1613913373817.6804,
+    "uuid": "41bdf386-2091-420e-be76-9b9b4b7ac48b",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts.meta": {
+    "time": 1613921763471.6362
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts": {
+    "time": 1621917742432.079,
+    "uuid": "2137aef2-e015-4aac-a310-ad2b7e5fa0d1",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\GameManager.ts.meta": {
+    "time": 1613921770574.1455
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\GameManager.ts": {
+    "time": 1621917700334.7603,
+    "uuid": "0527ed17-33e9-4188-a2f3-21ac4b96ff84",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs.meta": {
+    "time": 1613988167475.5203
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_1.prefab.meta": {
+    "time": 1613988913734.9595
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_2.prefab.meta": {
+    "time": 1613994282535.0393
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_3.prefab.meta": {
+    "time": 1613994317272.2795
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\Map.prefab.meta": {
+    "time": 1613994438763.6057
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_4.prefab.meta": {
+    "time": 1613997796913.1892
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_5.prefab.meta": {
+    "time": 1613997797055.0542
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_6.prefab.meta": {
+    "time": 1613997797142.9712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_7.prefab.meta": {
+    "time": 1613997804365.4492
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_7_left.prefab.meta": {
+    "time": 1613997804473.3604
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\monster_7_right.prefab.meta": {
+    "time": 1613997804631.2185
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Monsters.ts.meta": {
+    "time": 1613998477750.1572
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Monsters.ts": {
+    "time": 1621258230479.2622,
+    "uuid": "ecf8455f-0795-4a5d-9fad-d13372868e81",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Animation.meta": {
+    "time": 1613998909845.987
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Animation": {
+    "time": 1617797586615.784,
+    "uuid": "ad569f4b-583e-451f-929f-3c00a1fd5514",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources.meta": {
+    "time": 1614009133839.217
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources": {
+    "time": 1621167528788.2246,
+    "uuid": "af72a64f-744c-4970-bf3f-1f5abf2f94b8",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_1.prefab.meta": {
+    "time": 1613988913734.9595
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_3.prefab.meta": {
+    "time": 1613994317272.2795
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_4.prefab.meta": {
+    "time": 1613997796913.1892
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_2.prefab.meta": {
+    "time": 1613994282535.0393
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_5.prefab.meta": {
+    "time": 1613997797055.0542
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_7.prefab.meta": {
+    "time": 1613997804365.4492
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_7_left.prefab.meta": {
+    "time": 1613997804473.3604
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_6.prefab.meta": {
+    "time": 1613997797142.9712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monster_7_right.prefab.meta": {
+    "time": 1613997804631.2185
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters.meta": {
+    "time": 1614009146842.0686
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters": {
+    "time": 1617797579623.9055,
+    "uuid": "1590d835-f273-46b5-b503-87ad0b754da2",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_1.prefab.meta": {
+    "time": 1613988913734.9595
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_1.prefab": {
+    "time": 1616077244731.2031,
+    "uuid": "d7638657-1b12-4c5e-8a5e-bba702775d73",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_3.prefab.meta": {
+    "time": 1614426755793.9517
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_2.prefab.meta": {
+    "time": 1613994282535.0393
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_2.prefab": {
+    "time": 1616077260071.5828,
+    "uuid": "fc72ef3d-d34e-4edd-8a95-979d8c4ad498",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_4.prefab.meta": {
+    "time": 1614426763820.9614
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_5.prefab.meta": {
+    "time": 1614348907844.6877
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_6.prefab.meta": {
+    "time": 1613997797142.9712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_7_right.prefab.meta": {
+    "time": 1613997804631.2185
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_7_left.prefab.meta": {
+    "time": 1613997804473.3604
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_7.prefab.meta": {
+    "time": 1613997804365.4492
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\MonsterManager.ts.meta": {
+    "time": 1614075689047.566
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\MonsterManager.ts": {
+    "time": 1621259094099.5852,
+    "uuid": "d3238751-e3ae-4a86-b568-257ac97d7c7f",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Constants.ts.meta": {
+    "time": 1614075799930.384
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\Wall_Left.prefab.meta": {
+    "time": 1614244942718.7712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Prefabs\\Wall_Right.prefab.meta": {
+    "time": 1614244942804.6902
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\GameData.ts.meta": {
+    "time": 1614247110512.7578
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_5_left.png.meta": {
+    "time": 1614348890570.5554
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_5_right.png.meta": {
+    "time": 1614348895512.967
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_6_left.prefab.meta": {
+    "time": 1614348997127.2476
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_6_right.prefab.meta": {
+    "time": 1614349001594.2937
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_5_left.prefab.meta": {
+    "time": 1614349008571.1436
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_5_right.prefab.meta": {
+    "time": 1614349012658.2712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_3.prefab": {
+    "time": 1616077391658.6443,
+    "uuid": "1e377706-9f88-4f86-bd25-daf500fcc3e9",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_4.prefab": {
+    "time": 1616077542849.5095,
+    "uuid": "870ecca1-165d-48d7-a0e0-6d748e421125",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_4_left.prefab.meta": {
+    "time": 1614426767256.7893
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_4_right.prefab.meta": {
+    "time": 1614426772593.817
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_3.png": {
+    "time": 1529428844000,
+    "uuid": "7a63079b-e798-49a9-a672-75cab5bded83",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_4.png": {
+    "time": 1613903270846.7097,
+    "uuid": "57e12038-8326-48c3-899e-eb8f4d417365",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_4_left.png.meta": {
+    "time": 1614426799221.0925
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_4_right.png.meta": {
+    "time": 1614426804712.0325
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_4_Half.png.meta": {
+    "time": 1614532451902.265
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_4_half.prefab.meta": {
+    "time": 1614532463015.1245
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\monsters\\monster_4_half.prefab": {
+    "time": 1616077533349.9214,
+    "uuid": "40505d8d-b95c-4b70-909c-27b433847e83",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_4_half.png.meta": {
+    "time": 1614532472805.754
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\monsters\\monster_4_half.png": {
+    "time": 1613903330733.806,
+    "uuid": "039347e1-6708-4f41-8633-125f8bab5160",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\UIManager.ts.meta": {
+    "time": 1614695067560.9587
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\UIManager.ts": {
+    "time": 1621258539501.132,
+    "uuid": "79e1a617-ed78-4b2d-b0b5-b2ca30c471bd",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI.meta": {
+    "time": 1614918128114.1575
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI": {
+    "time": 1617797561972.2407,
+    "uuid": "d0ec72c5-4573-4f6c-a1c7-ab151bdd3334",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\grey.png.meta": {
+    "time": 1614920593682.579
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\yellow.png.meta": {
+    "time": 1615021044844.996
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panel_beigeLight.png.meta": {
+    "time": 1615037088318.6484
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\buttonSquare_beige.png.meta": {
+    "time": 1615024693912.178
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panel_beige.png.meta": {
+    "time": 1615034795054.5376
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panel_brown.png.meta": {
+    "time": 1615035186177.8203
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panel_brown.png": {
+    "time": 1397980703031.3591,
+    "uuid": "c86b9840-0b36-4276-a0d7-982055c94610",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panelInset_beige.png.meta": {
+    "time": 1615035371749.116
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panelInset_beige.png": {
+    "time": 1397980703049.3767,
+    "uuid": "2f920874-e010-46ca-af15-c57236c34ea6",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panelInset_beigeLight.png.meta": {
+    "time": 1615035303576.1953
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\font.meta": {
+    "time": 1615035442622.1758
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\font": {
+    "time": 1617797571940.2603,
+    "uuid": "162d29ef-c0e5-4134-8820-231e8239336d",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\font\\造字工房素黑体.ttf.meta": {
+    "time": 1615035674415.588
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\font\\造字工房素黑体.ttf": {
+    "time": 1611754624000,
+    "uuid": "db51d54c-e8a3-48a0-9fc9-4f08364dbcff",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\buttonLong_beige_pressed.png.meta": {
+    "time": 1615036442807.2073
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\buttonLong_grey_pressed.png.meta": {
+    "time": 1615036594065.9019
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\buttonLong_grey_pressed.png": {
+    "time": 1397980703022.3506,
+    "uuid": "af5ad384-c01e-4a57-ae56-f8f0a1c95890",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\iconCross_brown.png.meta": {
+    "time": 1615036786069.6042
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\iconCross_brown.png": {
+    "time": 1397980703042.3691,
+    "uuid": "acd88594-7783-4280-b03a-94e9ae5b01f9",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\iconCross_beige.png.meta": {
+    "time": 1615036813320.0378
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\arrowBrown_right.png.meta": {
+    "time": 1615036895363.1333
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\arrowBrown_right.png": {
+    "time": 1397980703019.3474,
+    "uuid": "ad2aa857-fe1e-4499-93de-9694cd1b1935",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\UI\\panel_beigeLight.png": {
+    "time": 1397980703011.3406,
+    "uuid": "ade2c8ec-68aa-4ea8-9f31-8cc8d1d92825",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Animation\\score_label.anim.meta": {
+    "time": 1616127256343.4714
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Animation\\score_change.anim.meta": {
+    "time": 1616127296948.8308
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\ScoreManager.ts.meta": {
+    "time": 1616432861787.1216
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Score.ts.meta": {
+    "time": 1616432878673.779
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Score.ts": {
+    "time": 1621090424724.3662,
+    "uuid": "07cd94ed-2682-4d59-9c7c-d749787718bc",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\score.prefab.meta": {
+    "time": 1616482287016.7986
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\effect.meta": {
+    "time": 1616482301702.976
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\effect": {
+    "time": 1617797583307.5332,
+    "uuid": "f6a3b015-9fec-4e29-aef9-a787a3e3eb4b",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\effect\\score.prefab.meta": {
+    "time": 1616482287016.7986
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\effect\\score.prefab": {
+    "time": 1616482342519.6743,
+    "uuid": "d9515689-24f9-43cc-b2fc-5bf9dfcdf075",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Animation\\score_add.anim.meta": {
+    "time": 1616595256914.767
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Animation\\score_add.anim": {
+    "time": 1616127515095.3882,
+    "uuid": "f71d5081-c95f-40cc-b94c-f7311a539489",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\TiledMapManager.ts.meta": {
+    "time": 1621089930599.3987
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\Map.prefab.meta": {
+    "time": 1621167298406.6995
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\Prefabs.meta": {
+    "time": 1613988167475.5203
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\Prefabs\\Wall_Left.prefab.meta": {
+    "time": 1614244942718.7712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\Prefabs\\Wall_Right.prefab.meta": {
+    "time": 1614244942804.6902
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs.meta": {
+    "time": 1613988167475.5203
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\Wall_Left.prefab.meta": {
+    "time": 1614244942718.7712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\Wall_Right.prefab.meta": {
+    "time": 1614244942804.6902
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs": {
+    "time": 1621226074300.3645,
+    "uuid": "a33dca86-3bac-47f2-934b-69009ed53a18",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\Map.prefab.meta": {
+    "time": 1621167298406.6995
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\Map.prefab": {
+    "time": 1621174092586.5737,
+    "uuid": "88744ce9-1aca-4646-97f8-ea74d316b788",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Earth.tmx.meta": {
+    "time": 1621168169036.7866
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Earth.tmx": {
+    "time": 1621168166013.5479,
+    "uuid": "51bc567b-00c1-4a39-87e8-2f61b56e4d3c",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\Earth.prefab.meta": {
+    "time": 1621168347446.53
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\Earth.prefab": {
+    "time": 1621226705517.677,
+    "uuid": "4bdc4e23-1ba6-4880-8008-9b00fcdc9b63",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Utils.ts.meta": {
+    "time": 1621169014208.7397
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\MapNodes.ts.meta": {
+    "time": 1621172766576.819
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Earth.ts.meta": {
+    "time": 1621173158117.8853
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\BasedMap.ts.meta": {
+    "time": 1621174198549.5493
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\MapManager.ts.meta": {
+    "time": 1621220175306.776
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\MapManager.ts": {
+    "time": 1621923882264.5469,
+    "uuid": "3508b542-f97f-44da-a81c-e7692b5bdd49",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Tiled.ts.meta": {
+    "time": 1621223661491.4287
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\Tile.ts.meta": {
+    "time": 1621223705201.3433
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\TiledMap.ts.meta": {
+    "time": 1621223735692.334
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Scripts\\TiledMap.ts": {
+    "time": 1621259733552.7515,
+    "uuid": "26b23161-e373-443e-97bf-2cc8fe8329b7",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\BasedMap.prefab.meta": {
+    "time": 1621223891471.248
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\resources\\prefabs\\BasedMap.prefab": {
+    "time": 1621922091570.7644,
+    "uuid": "dd5ef022-f706-4249-b622-7c2b0324e34f",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\prefabs.meta": {
+    "time": 1621226070698.3003
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\prefabs": {
+    "time": 1621226074300.3645,
+    "uuid": "a17dd0e7-f821-4f0f-aeef-d35d5261344b",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\prefabs\\Wall_Left.prefab.meta": {
+    "time": 1614244942718.7712
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\prefabs\\Wall_Left.prefab": {
+    "time": 1614526741951.1973,
+    "uuid": "cc0cfbe5-3c2b-4f2a-abaa-34a7a1a9bd7c",
+    "missing": false
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\prefabs\\Wall_Right.prefab.meta": {
+    "time": 1614244942804.6902
+  },
+  "D:\\Craft-Monsters\\Craft-Monsters\\assets\\prefabs\\Wall_Right.prefab": {
+    "time": 1614526754540.931,
+    "uuid": "62960721-d506-4565-8d64-46ff65026929",
+    "missing": false
+  }
+}

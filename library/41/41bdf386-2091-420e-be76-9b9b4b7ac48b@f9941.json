@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Nature_environment_tiles",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 240,
+      "height": 1248
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 240,
+      "height": 1248
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "41bdf386-2091-420e-be76-9b9b4b7ac48b@6c48a",
+    "packable": true
+  }
+}

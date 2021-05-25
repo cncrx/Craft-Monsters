@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "monster_4_half",
+    "atlas": "",
+    "rect": {
+      "x": 118,
+      "y": 79,
+      "width": 122,
+      "height": 303
+    },
+    "offset": {
+      "x": -61,
+      "y": 9.5
+    },
+    "originalSize": {
+      "width": 480,
+      "height": 480
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "039347e1-6708-4f41-8633-125f8bab5160@6c48a",
+    "packable": true
+  }
+}

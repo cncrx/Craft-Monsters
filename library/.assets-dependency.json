@@ -1,0 +1,12 @@
+{
+  "path": {
+    "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Map.tmx": [
+      "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.tsx",
+      "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.png"
+    ],
+    "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Earth.tmx": [
+      "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.tsx",
+      "D:\\Craft-Monsters\\Craft-Monsters\\assets\\Sources\\map\\Nature_environment_tiles.png"
+    ]
+  }
+}

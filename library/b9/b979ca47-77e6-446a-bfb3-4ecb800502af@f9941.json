@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "monster_2",
+    "atlas": "",
+    "rect": {
+      "x": 103,
+      "y": 92,
+      "width": 274,
+      "height": 272
+    },
+    "offset": {
+      "x": 0,
+      "y": 12
+    },
+    "originalSize": {
+      "width": 480,
+      "height": 480
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b979ca47-77e6-446a-bfb3-4ecb800502af@6c48a",
+    "packable": true
+  }
+}

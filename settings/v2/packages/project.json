@@ -1,0 +1,28 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "height": 1280,
+      "width": 720,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "ground"
+      },
+      {
+        "index": 2,
+        "name": "monsters"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 4,
+      "2": 6
+    }
+  }
+}
